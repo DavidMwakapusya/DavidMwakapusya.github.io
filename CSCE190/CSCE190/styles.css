@@ -1,0 +1,20 @@
+body{
+    background: burlywood; 
+    font-family:Arial, Helvetica, sans-serif;
+} 
+
+.assignment{
+    display:flex;
+    padding:10px;
+    background:  gray;
+}
+
+.assignment img {
+    width:100px;
+    padding:10px;
+}
+
+hl{
+    color: white;
+    text-align: right;
+}
